@@ -47,7 +47,7 @@ The dashboard highlights the following HR-focused KPIs:
 
 
 
-These KPIs serve as benchmarks for HR leaders to measure retention and identify problem areas.  
+These KPIs serve as benchmarks for HR leaders to measure retention and identify problem areas. 
 
 ---
 
@@ -89,6 +89,12 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 - Employees in **lower salary brackets** were far more likely to leave.  
 - Middle salary ranges had the **highest retention**.  
 - Very high earners occasionally showed attrition, potentially linked to external opportunities.  
+
+
+ <img width="290" height="166" alt="Screenshot 2025-09-08 at 10 44 12 AM" src="https://github.com/user-attachments/assets/fb36af2a-3813-4514-90c4-b333d7baf702" />
+
+
+
 
 ---
 

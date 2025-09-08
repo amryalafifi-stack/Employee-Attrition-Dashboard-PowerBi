@@ -28,15 +28,24 @@ Below is the overview page from the dashboard. The full interactive version can 
 
 ## Key Performance Indicators (KPIs)  
 
-The dashboard highlights several HR-focused KPIs:  
+The dashboard highlights the following HR-focused KPIs:
 
-- **Overall Attrition Rate (%)** – Percentage of employees who left the company.  
-- **Employee Count** – Total number of employees currently in the dataset.  
+
+- **Employee Count** – Total number of employees in the dataset.  
+- **Attrition Count** – Total number of employees who left the company.  
+- **Overall Attrition Rate (%)** – Percentage of employees who left, calculated as `(Attrition Count / Employee Count) * 100`.  
+- **Average Age** – Mean age of employees.  
 - **Average Tenure (Years)** – Average length of service across employees.  
-- **Average Monthly Income ($)** – Compensation levels across roles and departments.  
-- **Attrition by Demographics** – Attrition rate segmented by age, gender, and education.  
-- **Attrition by Job Role/Department** – Turnover rates in specific functions.  
-- **Attrition by Tenure Bracket** – Early leavers vs. long-term employees.  
+- **Average Monthly Income ($)** – Mean salary across employees.  
+
+
+
+<img width="743" height="79" alt="Screenshot 2025-09-08 at 10 33 41 AM" src="https://github.com/user-attachments/assets/eeabc704-1888-4b27-a967-ede64a2baa1a" />
+
+
+
+
+
 
 These KPIs serve as benchmarks for HR leaders to measure retention and identify problem areas.  
 
@@ -52,9 +61,16 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 ### 2. Demographics  
 - Younger employees (<35) had nearly **2x the attrition rate** compared to older employees.  
 - Employees with only a **Bachelor’s degree** showed higher attrition compared to those with advanced degrees.  
-- Gender differences in attrition were minimal, but trends emerged within specific roles.  
+- Gender differences in attrition were minimal, but trends emerged within specific roles.
+
+<img width="344" height="197" alt="Screenshot 2025-09-08 at 10 39 21 AM" src="https://github.com/user-attachments/assets/37db3061-93b8-451d-9858-33a04eb7d1ed" />
+
+ <img width="282" height="162" alt="Screenshot 2025-09-08 at 10 41 39 AM" src="https://github.com/user-attachments/assets/2f4676e4-c60c-4aab-a249-9b0ba20d18ec" />
+
+
 
 ### 3. Job Roles & Departments  
+
 - **Sales Representatives** experienced the **highest attrition rate**.  
 - **Human Resources** also showed above-average turnover.  
 - Technical roles (e.g., R&D, IT) had lower attrition, suggesting job specialization may increase retention.  

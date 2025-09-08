@@ -63,7 +63,12 @@ These KPIs serve as benchmarks for HR leaders to measure retention and identify 
 - Employees with only a **Bachelor’s degree** showed higher attrition compared to those with advanced degrees.  
 - Gender differences in attrition were minimal, but trends emerged within specific roles.
 
+
+
 <img width="344" height="197" alt="Screenshot 2025-09-08 at 10 39 21 AM" src="https://github.com/user-attachments/assets/37db3061-93b8-451d-9858-33a04eb7d1ed" />
+
+
+
 
  <img width="282" height="162" alt="Screenshot 2025-09-08 at 10 41 39 AM" src="https://github.com/user-attachments/assets/2f4676e4-c60c-4aab-a249-9b0ba20d18ec" />
 

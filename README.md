@@ -20,7 +20,9 @@ Below is the overview page from the dashboard. The full interactive version can 
 
 ## Dashboard Screenshot  
 
-![Employee Attrition Dashboard](your-image-file.png)  
+<img width="1710" height="1107" alt="Screenshot 2025-09-08 at 10 31 03 AM" src="https://github.com/user-attachments/assets/f7f67c89-ccef-4a5f-b957-d3281228adb3" />
+
+
 
 ---
 
